@@ -1,0 +1,13 @@
+numpy
+pandas
+statsbombpy
+pyarrow
+networkx
+matplotlib
+seaborn
+scipy
+scikit-learn
+xgboost
+shap
+jupyter
+ipykernel
